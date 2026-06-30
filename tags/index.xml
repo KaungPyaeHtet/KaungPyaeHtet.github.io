@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Kaung Pyae Htet</title>
+    <link>https://KaungPyaeHtet.github.io/tags/</link>
+    <description>Recent content in Tags on Kaung Pyae Htet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2026 16:08:46 +0630</lastBuildDate>
+    <atom:link href="https://KaungPyaeHtet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://KaungPyaeHtet.github.io/tags/first-blog/</link>
+      <pubDate>Tue, 30 Jun 2026 16:08:46 +0630</pubDate>
+      <guid>https://KaungPyaeHtet.github.io/tags/first-blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scholarship</title>
+      <link>https://KaungPyaeHtet.github.io/tags/scholarship/</link>
+      <pubDate>Tue, 30 Jun 2026 16:08:46 +0630</pubDate>
+      <guid>https://KaungPyaeHtet.github.io/tags/scholarship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Year 1</title>
+      <link>https://KaungPyaeHtet.github.io/tags/year-1/</link>
+      <pubDate>Tue, 30 Jun 2026 16:08:46 +0630</pubDate>
+      <guid>https://KaungPyaeHtet.github.io/tags/year-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
