@@ -6,8 +6,23 @@
     <description>Recent content on Kaung Pyae Htet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:08:46 +0630</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:14:15 +0630</lastBuildDate>
     <atom:link href="https://KaungPyaeHtet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Science Student Guide 2026</title>
+      <link>https://KaungPyaeHtet.github.io/posts/computer-science-student-guide-2026/</link>
+      <pubDate>Fri, 10 Jul 2026 12:14:15 +0630</pubDate>
+      <guid>https://KaungPyaeHtet.github.io/posts/computer-science-student-guide-2026/</guid>
+      <description>&lt;h1 id=&#34;computer-science-guide-for-2026&#34;&gt;Computer Science Guide for 2026&lt;/h1&gt;
+&lt;p&gt;These past few years, students have been using AI to solve questions they do not understand (I have done that before). However from my experience, using AI to solve questions related to critical thinking have been nothing but detrimental for you. So I also want to talk about how you should use AI properly.&lt;/p&gt;
+&lt;h2 id=&#34;ai-usage&#34;&gt;AI Usage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use AI to research things (instead of opening 5 different websites and gathering resources, you should use AI to fasten your work)&lt;/li&gt;
+&lt;li&gt;Use AI to generate questions, flashcards, notes (It can save you time if you are the one solving the problems and AI is the one giving you questions)&lt;/li&gt;
+&lt;li&gt;Use AI to do mundane tasks such as generic email reply, generic making connection etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now once you have learnt how to use AI properly, you will need resources to level up your skills&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Scholarship Acceptance ASEAN Undergraduate (Myanmar)</title>
       <link>https://KaungPyaeHtet.github.io/posts/my-first-nus-blog/</link>
@@ -16,8 +31,71 @@
       <description>&lt;p&gt;Recently, on June 5, I was fortune enough to receive the ASEAN Undergraduate Scholarship From NUS. In this blog, I will be sharing my personal experience, journey and stats of mine so you may have some ideas while preparing for this scholarship.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;aus-scholarship-acceptance-image&#34; loading=&#34;lazy&#34; src=&#34;https://KaungPyaeHtet.github.io/images/scholarship.png&#34;&gt;
 Figure 1. Scholarship-Acceptance.png&lt;/p&gt;
-&lt;p&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;here-are-some-of-my-stats&#34;&gt;Here are some of my stats:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A level Grades (2 A* in Mathematics, Further Mathematics, 2 A in Chemistry, Physics)&lt;/li&gt;
+&lt;li&gt;IGCSE Grades (6 A* in Mathematics B, Further Pure Mathematics, Chemistry, Physics, Biology, Computer Science, 1 B in English Language B)&lt;/li&gt;
+&lt;li&gt;SAT (1470 Overall, 730 ERB, 740 Mathematics)&lt;/li&gt;
+&lt;li&gt;IELTS (7.5 Overall, 6.5 W, 8.5 R, 8.0 L, 7.5 S)&lt;/li&gt;
+&lt;li&gt;Hackathons (Hub&amp;amp;Hack 2023 Winner, UNDP Impact Hub Agriculture Resilience Hackathon 1nd Runner Up)&lt;/li&gt;
+&lt;li&gt;President of The Blossoms (Non-profit organization aiming to solve eduational disparity across Myanmar by providing free classes)&lt;/li&gt;
+&lt;li&gt;Computing Club and Chess Club Founder at Sayar Chit Academy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-journey-to-scholarship&#34;&gt;My Journey to Scholarship&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I had to take 4 types of examinations before getting the ASEAN Undergraduate Scholarship&lt;/li&gt;
+&lt;li&gt;Maths/English Test&lt;/li&gt;
+&lt;li&gt;Python Test&lt;/li&gt;
+&lt;li&gt;IQ Test&lt;/li&gt;
+&lt;li&gt;Interview&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advice-for-future-applicants-across-myanmar-as-international-studentg12-student&#34;&gt;Advice for Future Applicants across Myanmar as International Student/G12 Student&lt;/h2&gt;
+&lt;h3 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;For mathematics there were some questions that are a bit ambiguous to solve such as Permutation/Combination problems (Note: I don&amp;rsquo;t know how to solve such problems as Edexcel International syllabus doesn&amp;rsquo;t include that topic) and Trigonometry (Sin, Cos, Tan, you should know some basic degrees of them), algebra with some equations that ask you how many solutions does this equation have&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;english&#34;&gt;English&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;10 Easy MCQs questions with paragraph given (just like IELTS but a bit easier, my topic was related to AI), 5 Essays questions that ask you generic questions like (One time where you had to lead the team, One moment where you feel defeated, Your future goals, etc)&lt;/li&gt;
+&lt;li&gt;For essays, make sure to learn more about yourself before sitting the exam.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;python-test&#34;&gt;Python Test&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;They give a course for you before taking the test (Please make sure to do this course as it will be important later, but I didn&amp;rsquo;t do it at the time because I was a bit busy with other things)&lt;/li&gt;
+&lt;li&gt;5 Questions given&lt;/li&gt;
+&lt;li&gt;1 was simple algorithm implmentation, if you have experience in Leetcode or algorithms it is too easy for you.&lt;/li&gt;
+&lt;li&gt;2 was some also easy implementation but make sure to know your syntax as for me I wasted around 30 minutes trying to find round() function in Python.&lt;/li&gt;
+&lt;li&gt;3 was also easy but CSV related questions (make sure you know how to handle these file in Python)&lt;/li&gt;
+&lt;li&gt;4 was also CSV question but harder&lt;/li&gt;
+&lt;li&gt;5 was very hard (OOP question) (You had to implement Thanos&amp;rsquo;s gems and gauntlet, I only got up to 80% testcases)
+Tip: If you prepare using their provided course it will be easy for you&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iq-test&#34;&gt;IQ test&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Just Square, Circle, Triangle, and patterns make sure to have enough practices and if you see them in exam, it will be faster for you&lt;/li&gt;
+&lt;li&gt;Websites like mensa iq helped me because I saw some patterns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interview&#34;&gt;Interview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is very good if you are here now because you are shortlisted already.&lt;/li&gt;
+&lt;li&gt;You should present yourself well to the professors like wear dress properly and speak properly etc.&lt;/li&gt;
+&lt;li&gt;For me it was two people interview (one being NUS prof, one being NTU prof)&lt;/li&gt;
+&lt;li&gt;It is mostly English speaking test round. (They are checking if you can handle conversation with them)&lt;/li&gt;
+&lt;li&gt;They will tell you to present yourself so make sure to have like 30 second pitch prsentation about yourself at first.&lt;/li&gt;
+&lt;li&gt;They will follow you up with questions that they are interested in.&lt;/li&gt;
+&lt;li&gt;Some tips: Please do not yap things you don&amp;rsquo;t truly understand, they will ask follow up questions to explain sometimes and it will be awkward if you do not know what you are talking about.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;finally-acceptance&#34;&gt;Finally, Acceptance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Congratulations!!!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;general-life-tips&#34;&gt;General life tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Try to focus on your actions instead of your results&lt;/li&gt;
+&lt;li&gt;Prepare for the scholarship thoroughly&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t cram near the exam&lt;/li&gt;
+&lt;li&gt;Seek out to seniors for advice&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
